@@ -68,6 +68,6 @@ ul.posts li {
       justify-content: space-between;
 }
 .image-row img {
-    width: 50%; /* adjust as needed */
+    width: 100%; /* adjust as needed */
     height: auto;
 }
