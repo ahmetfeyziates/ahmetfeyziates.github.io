@@ -65,7 +65,9 @@ ul.posts li {
 }
 .image-row {
       display: flex;
-      justify-content: space-between; /* or center */
+      flex-wrap: wrap;
+      gap: 10px; /* space between images */
+      justify-content: center;
 }
 .image-row img {
     width: 30%; /* adjust as needed */
