@@ -42,7 +42,7 @@ ul.posts li {
 }
 .image-container {
     position: relative;
-    width: 50%;
+    width: 30%;
     display: inline-block;
     margin: 10px;
 }
@@ -68,6 +68,6 @@ ul.posts li {
       justify-content: space-between;
 }
 .image-row img {
-    width: 60%; /* adjust as needed */
+    width: 30%; /* adjust as needed */
     height: auto;
 }
