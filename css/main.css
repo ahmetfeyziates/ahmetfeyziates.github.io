@@ -37,6 +37,15 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
+.image-row {
+      display: flex;
+      justify-content: space-between; /* or center */
+}
+
+.image-row img {
+    width: 30%; /* adjust as needed */
+    height: auto;
+}
 
 ul.posts li {
     list-style: none;
