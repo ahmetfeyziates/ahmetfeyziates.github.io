@@ -46,14 +46,12 @@ ul.posts li {
     display: inline-block;
     margin: 10px;
 }
-
-    .image-container img {
+.image-container img {
       width: 100%;
       height: auto;
       display: block;
 }
-
-    .image-text {
+.image-text {
       position: absolute;
       bottom: 10px; /* or top: 10px; for top */
       left: 10px;
@@ -70,6 +68,6 @@ ul.posts li {
       justify-content: center;
 }
 .image-row img {
-    width: 50%; /* adjust as needed */
+    width: 60%; /* adjust as needed */
     height: auto;
 }
