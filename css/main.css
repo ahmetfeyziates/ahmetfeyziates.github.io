@@ -71,3 +71,7 @@ ul.posts li {
     width: auto; /* adjust as needed */
     height: auto;
 }
+.image-row imgg {
+    width: 50%; /* adjust as needed */
+    height: 50%;
+}
