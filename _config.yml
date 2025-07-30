@@ -3,3 +3,5 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
+url: "https://ahmetfeyziates.github.io"  # Replace with your custom domain or GitHub Pages URL
+baseurl: ""  # Leave empty for root domain or set to "/repo-name" for project pages
