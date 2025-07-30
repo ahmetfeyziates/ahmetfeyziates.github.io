@@ -1,3 +1,5 @@
 name: Ahmet Feyzi Ates, Horrible Cop
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-sitemap
