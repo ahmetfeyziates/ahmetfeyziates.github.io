@@ -3,4 +3,4 @@ This repo has also been styled with CSS. The styling is explained over the cours
 
 [Run the example live](http://mdn.github.io/beginner-html-site-styled/).
 
-[Go to my personal site](https://ahmetfeyziates.github.io/).
+[Go to my personal site](https://ahmetfeyziates.github.io/) to get an idea about my previous and current work.
